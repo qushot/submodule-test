@@ -1,0 +1,6 @@
+[submodule "submodule-test-foo-api"]
+	path = submodule-test-foo-api
+	url = git@github.com:qushot/submodule-test-foo-api.git
+[submodule "submodule-test-foo-front"]
+	path = submodule-test-foo-front
+	url = git@github.com:qushot/submodule-test-foo-front.git
